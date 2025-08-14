@@ -3,7 +3,12 @@
 <img src="screenshots/scr01.png" width="200" height="500">   <img src="screenshots/scr02.png" width="200" height="500">   <img src="screenshots/scr03.png" width="200" height="500">   <img src="screenshots/scr04.png" width="200" height="500">   <img src="screenshots/scr05.png" width="200" height="500">  
  
 
-A new Flutter project.
+A new Flutter project
+
+- Developed a real-time chat application using Flutter and Firebase (Firestore, Authentication), enabling
+instant message exchange.
+- Implemented user authentication, message storage, and live updates with a responsive and intuitive UI
+design.
 
 ## Getting Started
 
